@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmirMoeiniRad
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently busy with web development.
+- 💞️ I’m looking to collaborate on web, mobile and desktop development projects.
 - 📫 How to reach me: amirmoinirad@gmail.com
 
 <!---
